@@ -201,10 +201,10 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
     :root {
-        --bg-url: url(assets/rock-dark.svg)
+        --bg-url: url(assets/rock-light.svg)
     }
     .light {
-        --bg-url: url(assets/rock-light.svg)
+        --bg-url: url(assets/rock-dark.svg)
     }
 }
 
