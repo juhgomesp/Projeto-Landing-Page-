@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Projeto Landing Page</h1>
+<h1 align="center">🌐 Projeto Link-in-Bio</h1>
 
 <p align="center">
 Este é um projeto de landing page desenvolvido com HTML, CSS e JavaScript, com foco em apresentar links 
